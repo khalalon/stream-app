@@ -19,6 +19,10 @@
     text-align: center;
     color: #ffffff;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 591f082bba4d7aef00d03a72994066cbfce90f19
 .register-container h2 {
     margin-bottom: 20px;
 }
@@ -26,14 +30,31 @@
 .register-container p {
     margin-bottom: 30px;
 }
+<<<<<<< HEAD
 
 .form-control {
     background-color: rgba(255, 255, 255, 0.1);
     border: none;
+=======
+.form-control:focus {
+    border-color: #4caf50;
+    background-color: rgba(255, 255, 255, 0.2);
+    outline: none;
+}
+
+.form-control {
+    background-color: rgba(255, 255, 255, 0.1);
+    border: 2px solid transparent;
+>>>>>>> 591f082bba4d7aef00d03a72994066cbfce90f19
     width: 100%;
     margin-bottom: 20px;
     padding: 10px 20px;
     width: 90%;
+<<<<<<< HEAD
+=======
+    border-radius: 30px;
+    transition: border-color 0.3s ease, background-color 0.3s ease;
+>>>>>>> 591f082bba4d7aef00d03a72994066cbfce90f19
 }
 
 .form-control:hover {
@@ -46,7 +67,11 @@
     width: 100%;
     margin-bottom: 20px;
     border-radius: 30px;
+<<<<<<< HEAD
     
+=======
+
+>>>>>>> 591f082bba4d7aef00d03a72994066cbfce90f19
 }
 
 .btn-success:hover {
@@ -57,7 +82,29 @@
 .form-control {
     border-radius: 30px;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 591f082bba4d7aef00d03a72994066cbfce90f19
 .form-control::placeholder {
     color: #f1f2f7ba;
     font-size: 15px;
 }
+<<<<<<< HEAD
+=======
+
+.signin-link {
+    margin-top: 20px;
+    color: #ffffff;
+}
+
+.signin-link a {
+    color: #4caf50;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.signin-link a:hover {
+    text-decoration: underline;
+}
+>>>>>>> 591f082bba4d7aef00d03a72994066cbfce90f19

@@ -30,12 +30,21 @@
 
 .form-control {
     background-color: rgba(255, 255, 255, 0.1);
+<<<<<<< HEAD
     border: none;
+=======
+    border: 2px solid transparent;
+>>>>>>> 591f082bba4d7aef00d03a72994066cbfce90f19
     width: 100%;
     margin-bottom: 20px;
     padding: 10px 20px;
     width: 90%;
+<<<<<<< HEAD
     color: white;
+=======
+    border-radius: 30px;
+    transition: border-color 0.3s ease, background-color 0.3s ease;
+>>>>>>> 591f082bba4d7aef00d03a72994066cbfce90f19
 }
 
 .form-control:hover {
